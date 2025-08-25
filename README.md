@@ -4,7 +4,7 @@ Hi 👋 My name is Yaroslav Syed
 * 🌍  I'm based in Belarus 
 * 🖥️  See my portfolio at [websyte](https://senkoslav.github.io/portfolio/)
 
-#🌐 Socials:
+# 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/senkoslav) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/senkoslav) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@senkoslav) 
 
 # 💻 Tech Stack:
@@ -49,7 +49,7 @@ Hi 👋 My name is Yaroslav Syed
  <img width="600" src="assets/github-snake.svg" alt="snake"/>
  </p>
 
- #📊 GitHub Stats:
+ # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Senkoslav&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Senkoslav&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Senkoslav&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
