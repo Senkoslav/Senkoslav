@@ -2,7 +2,7 @@ Hi 👋 My name is Yaroslav Syed
 ==============================
 
 * 🌍  I'm based in Belarus 
-* 🖥️  See my portfolio at [websyte](https://portfolio-sand-seven-11.vercel.app/)
+* 🖥️  See my portfolio at [website](https://portfolio-sand-seven-11.vercel.app/)
 
 # 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/senkoslav) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/senkoslav) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@senkoslav) 
