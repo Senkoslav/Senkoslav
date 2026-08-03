@@ -15,7 +15,7 @@
 
 ## 👤 About Me
 
-- 🧑‍💻 **Fullstack developer** — 1.5+ years in commercial development alongside freelance
+- 🧑‍💻 **Fullstack developer** — 3+ years in commercial development alongside freelance
 - 📍 Based in **Minsk, Belarus** · working **remotely**
 - 🏢 Currently at **Fixorix** — B2B SaaS platform for corporate communications
 - 🎓 **Plekhanov Russian University of Economics** — BSc Business Informatics (2023 – 2027)
@@ -37,43 +37,6 @@
 > - Wrote a custom **i18n layer** with dynamic translation loading and pre-hydration UI support (RU / EN)
 > - Introduced a **design-token-based UI kit** on shadcn/ui + Radix over Tailwind 4; unified tables, modals and empty states
 > - Moved the dev build to **Turbopack** and tuned TanStack Query (`staleTime`, domain-segmented query keys) to cut network traffic
-
-**Playa.ru** — Frontend Developer · *Aug 2025 – Nov 2025*
-> Moscow IT company (since 2008) specializing in enterprise system integration and high-load solutions (1B+ DB records, 1000+ msg/sec).
->
-> `React 19` `Vite` `TypeScript` `Tailwind 4` `Radix UI` `TanStack Query` `Zustand` `Keycloak`
->
-> - Built document and data-registry modules with confidential-data protection
-> - Implemented document generation and interactive editing with preview and export
-> - Integrated Keycloak authentication — a core company expertise (authors of open-source `keycloak-russian-providers`)
-> - Optimized interface performance on large data volumes
-
-**Amigo Logistics** — Frontend Developer (React Native) · *Jun 2025 – Sep 2025*
-> Cross-platform freelance-marketplace mobile app for the Spanish market: contractor search, order responses, chats, ratings, notifications.
->
-> `React Native` `Expo` `TypeScript` `NativeWind` `Redux Toolkit` `EAS` `i18n`
->
-> - Shipped key screens: filterable order feed, freelancer profile, customer↔contractor chat, ratings and reviews
-> - Refactored the UI layer onto **NativeWind**, unifying the design system and cutting time-to-build for new screens
-> - Designed Redux Toolkit state architecture with **offline support**; localized the app for a Spanish-speaking audience
-> - Set up automated builds and **OTA updates** via EAS
-
-**Freelance** — Fullstack Developer · *Nov 2023 – Present*
-
----
-
-## 🚀 Featured Project
-
-### 🌸 Gerbera — floristry e-commerce · *2025*
-
-Solo-built e-commerce on **Next.js 16** with an admin panel, payment integration, geolocation and CRM sync for a Moscow flower-shop chain.
-
-`Next.js 16` `React 19` `TypeScript` `Tailwind 4` `Zustand` `Supabase` `YooKassa API` `Yandex Geocoder` `Posiflora CRM`
-
-- Catalog with categories and a Zustand-backed cart; **online payments via YooKassa** with webhook handling and order status transitions
-- **Yandex Geocoder API** for address autocomplete and delivery-zone calculation by coordinates
-- **Two-way sync** of products, stock and orders with Posiflora CRM; CLI scripts for bulk import and discrepancy reconciliation
-- Supabase for auth, database and media storage
 
 ---
 
