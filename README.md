@@ -1,13 +1,13 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=600&lines=Hi+%F0%9F%91%8B+I'm+Yaroslav+Syed;Full-Stack+Developer;TypeScript+%2F+React+%2F+Node.js;Always+learning+new+things" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira%20Code&weight=600&size=26&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=700&lines=Hi%20%F0%9F%91%8B%20I%27m%20Yaroslav%20Syed%3BFullstack%20Developer%20%C2%B7%20React%20%2F%20Next.js%20%2F%20Node.js%3BTypeScript%20%C2%B7%20TanStack%20Query%20%C2%B7%20Tailwind%20%C2%B7%20Supabase%3BBuilding%20B2B%20SaaS%2C%20mobile%20%26%20e-commerce" alt="Typing SVG" />
 
 <br/>
 
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/senkoslav)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/senkoslav)
-[![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@senkoslav)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?logo=vercel&logoColor=white)](https://portfolio-sand-seven-11.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-sand-seven-11.vercel.app/)
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/senkoslav)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yaroslav76071@mail.ru)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/senkoslav)
 
 </div>
 
@@ -15,35 +15,120 @@
 
 ## 👤 About Me
 
-- 🌍 Based in **Belarus**
-- 🔭 Currently working on **full-stack web & crypto projects**
-- 🌱 Always exploring new technologies
-- 💬 Ask me about **React, TypeScript, Node.js, Express, PostgreSQL**
-- 🖥️ Portfolio: [portfolio-sand-seven-11.vercel.app](https://portfolio-sand-seven-11.vercel.app/)
+- 🧑‍💻 **Fullstack developer** — 1.5+ years in commercial development alongside freelance
+- 📍 Based in **Minsk, Belarus** · working **remotely**
+- 🏢 Currently at **Fixorix** — B2B SaaS platform for corporate communications
+- 🎓 **Plekhanov Russian University of Economics** — BSc Business Informatics (2023 – 2027)
+- 🧱 Comfortable across the whole stack: **Feature-Sliced Design** UI architecture and realtime interfaces on the front, **REST APIs**, PostgreSQL/Supabase and auth (Keycloak / OAuth / JWT) on the back
+- 🌐 Languages: Russian (native) · English (B1)
+- 📫 Reach me on [Telegram](https://t.me/senkoslav) — open to fullstack roles and project work
+
+---
+
+## 💼 Experience
+
+**Fixorix** — Frontend Developer · *May 2025 – Present*
+> B2B SaaS platform for corporate communications and customer request handling. Building the operator and admin web console.
+>
+> `Next.js 15 (App Router)` `React 19` `TypeScript (strict)` `TanStack Query v5` `Zustand` `Tailwind 4` `shadcn/ui` `STOMP/SockJS` `Keycloak` `Recharts` `Turbopack` · **Feature-Sliced Design**
+>
+> - Integrated **Keycloak SSO** with a role model and a customized login theme
+> - Built **realtime KPI dashboards** — live metric, event and notification panels over STOMP/SockJS, visualized with Recharts
+> - Wrote a custom **i18n layer** with dynamic translation loading and pre-hydration UI support (RU / EN)
+> - Introduced a **design-token-based UI kit** on shadcn/ui + Radix over Tailwind 4; unified tables, modals and empty states
+> - Moved the dev build to **Turbopack** and tuned TanStack Query (`staleTime`, domain-segmented query keys) to cut network traffic
+
+**Playa.ru** — Frontend Developer · *Aug 2025 – Nov 2025*
+> Moscow IT company (since 2008) specializing in enterprise system integration and high-load solutions (1B+ DB records, 1000+ msg/sec).
+>
+> `React 19` `Vite` `TypeScript` `Tailwind 4` `Radix UI` `TanStack Query` `Zustand` `Keycloak`
+>
+> - Built document and data-registry modules with confidential-data protection
+> - Implemented document generation and interactive editing with preview and export
+> - Integrated Keycloak authentication — a core company expertise (authors of open-source `keycloak-russian-providers`)
+> - Optimized interface performance on large data volumes
+
+**Amigo Logistics** — Frontend Developer (React Native) · *Jun 2025 – Sep 2025*
+> Cross-platform freelance-marketplace mobile app for the Spanish market: contractor search, order responses, chats, ratings, notifications.
+>
+> `React Native` `Expo` `TypeScript` `NativeWind` `Redux Toolkit` `EAS` `i18n`
+>
+> - Shipped key screens: filterable order feed, freelancer profile, customer↔contractor chat, ratings and reviews
+> - Refactored the UI layer onto **NativeWind**, unifying the design system and cutting time-to-build for new screens
+> - Designed Redux Toolkit state architecture with **offline support**; localized the app for a Spanish-speaking audience
+> - Set up automated builds and **OTA updates** via EAS
+
+**Freelance** — Fullstack Developer · *Nov 2023 – Present*
+
+---
+
+## 🚀 Featured Project
+
+### 🌸 Gerbera — floristry e-commerce · *2025*
+
+Solo-built e-commerce on **Next.js 16** with an admin panel, payment integration, geolocation and CRM sync for a Moscow flower-shop chain.
+
+`Next.js 16` `React 19` `TypeScript` `Tailwind 4` `Zustand` `Supabase` `YooKassa API` `Yandex Geocoder` `Posiflora CRM`
+
+- Catalog with categories and a Zustand-backed cart; **online payments via YooKassa** with webhook handling and order status transitions
+- **Yandex Geocoder API** for address autocomplete and delivery-zone calculation by coordinates
+- **Two-way sync** of products, stock and orders with Posiflora CRM; CLI scripts for bulk import and discrepancy reconciliation
+- Supabase for auth, database and media storage
 
 ---
 
 ## 💻 Tech Stack
 
-**Languages**
+**Core**
 
-<p align="left"><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" title="JavaScript"/></a><a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" title="TypeScript"/></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" title="Python"/></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" title="HTML5"/></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" title="CSS3"/></a></p>
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React_19-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=nodedotjs&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
 **Frontend**
 
-<p align="left"><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" title="React"/></a><a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored-dark.svg" width="36" height="36" alt="NextJs" title="NextJs"/></a><a href="https://redux.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" width="36" height="36" alt="Redux" title="Redux"/></a><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" title="TailwindCSS"/></a><a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" title="Sass"/></a><a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" title="Bootstrap"/></a><a href="https://vitejs.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" width="36" height="36" alt="Vite" title="Vite"/></a><a href="https://webpack.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/webpack-colored.svg" width="36" height="36" alt="Webpack" title="Webpack"/></a></p>
+![TanStack Query](https://img.shields.io/badge/TanStack_Query-FF4154?style=flat-square&logo=reactquery&logoColor=white)
+![Zustand](https://img.shields.io/badge/Zustand-433E38?style=flat-square)
+![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-764ABC?style=flat-square&logo=redux&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_4-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000000?style=flat-square&logo=shadcnui&logoColor=white)
+![Radix UI](https://img.shields.io/badge/Radix_UI-161618?style=flat-square&logo=radixui&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
 
-**Backend**
+**Mobile**
 
-<p align="left"><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" title="NodeJS"/></a><a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored-dark.svg" width="36" height="36" alt="Express" title="Express"/></a><a href="https://docs.nestjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nestjs-colored.svg" width="36" height="36" alt="NestJS" title="NestJS"/></a><a href="https://flask.palletsprojects.com/en/3.0.x/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flask-colored-dark.svg" width="36" height="36" alt="Flask" title="Flask"/></a></p>
+![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Expo](https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white)
+![NativeWind](https://img.shields.io/badge/NativeWind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 
-**Databases**
+**Backend & Data**
 
-<p align="left"><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" title="PostgreSQL"/></a><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" title="MongoDB"/></a><a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" title="Firebase"/></a></p>
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-FF4438?style=flat-square&logo=redis&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 
-**DevOps & Tools**
+**Realtime & Auth**
 
-<p align="left"><a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" title="Docker"/></a><a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" width="36" height="36" alt="Google Cloud" title="Google Cloud"/></a><a href="https://www.heroku.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/heroku-colored.svg" width="36" height="36" alt="Heroku" title="Heroku"/></a><a href="https://render.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/render-colored.svg" width="36" height="36" alt="Render" title="Render"/></a><a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" title="Linux"/></a><a href="https://apple.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/macos-colored-dark.svg" width="36" height="36" alt="MacOS" title="MacOS"/></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" width="36" height="36" alt="VS Code" title="VS Code"/></a><a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" title="Figma"/></a><a href="https://babeljs.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/babel-colored-dark.svg" width="36" height="36" alt="Babel" title="Babel"/></a><a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tensorflow-colored.svg" width="36" height="36" alt="TensorFlow" title="TensorFlow"/></a></p>
+![Socket.io](https://img.shields.io/badge/STOMP_%2F_SockJS-010101?style=flat-square&logo=socketdotio&logoColor=white)
+![Keycloak](https://img.shields.io/badge/Keycloak-4D4D4D?style=flat-square&logo=keycloak&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
+![Telegram](https://img.shields.io/badge/Telegram_Web_App-26A5E4?style=flat-square&logo=telegram&logoColor=white)
+
+**Tooling**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=gitlab&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 
 ---
 
@@ -51,10 +136,12 @@
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Senkoslav&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Senkoslav&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact"/>
+<img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Senkoslav&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" alt="GitHub stats"/>
+<img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Senkoslav&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=8" alt="Top languages"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Senkoslav&theme=tokyonight&hide_border=true" alt="streak stats"/>
+<br/>
+
+<img src="https://streak-stats.demolab.com/?user=Senkoslav&theme=tokyonight&hide_border=true" alt="Streak stats"/>
 
 </div>
 
@@ -64,7 +151,7 @@
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Senkoslav&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-trophies.vercel.app/?username=Senkoslav&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -75,9 +162,9 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/github-snake.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="assets/github-snake.svg" />
-  <img alt="github contribution grid snake animation" src="assets/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Senkoslav/Senkoslav/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Senkoslav/Senkoslav/output/github-snake.svg" />
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Senkoslav/Senkoslav/output/github-snake.svg" />
 </picture>
 
 </div>
