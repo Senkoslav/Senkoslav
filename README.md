@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira%20Code&weight=600&size=26&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=700&lines=Hi%20%F0%9F%91%8B%20I%27m%20Yaroslav%20Syed%3BFullstack%20Developer%20%C2%B7%20React%20%2F%20Next.js%20%2F%20Node.js%3BTypeScript%20%C2%B7%20TanStack%20Query%20%C2%B7%20Tailwind%20%C2%B7%20Supabase%3BBuilding%20B2B%20SaaS%2C%20mobile%20%26%20e-commerce" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira%20Code&weight=600&size=26&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=700&lines=Hi%20%F0%9F%91%8B%20I%27m%20Yaroslav%20Syed%3BFullstack%20Developer%20%C2%B7%20React%20%2F%20Next.js%20%2F%20Node.js%3BTypeScript%20%C2%B7%20TanStack%20Query%20%C2%B7%20Tailwind%20%C2%B7%20Supabase%3BBuilding%20AI-powered%20SaaS%20platforms" alt="Typing SVG" />
 
 <br/>
 
