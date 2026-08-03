@@ -17,7 +17,7 @@
 
 - 🧑‍💻 **Fullstack developer** — 3+ years in commercial development alongside freelance
 - 📍 Based in **Minsk, Belarus** · working **remotely**
-- 🏢 Currently at **Fixorix** — B2B SaaS platform for corporate communications
+- 🏢 Currently at **Fixorix** — AI-powered omnichannel helpdesk SaaS, building the operator console
 - 🎓 **Plekhanov Russian University of Economics** — BSc Business Informatics (2023 – 2027)
 - 🧱 Comfortable across the whole stack: **Feature-Sliced Design** UI architecture and realtime interfaces on the front, **REST APIs**, PostgreSQL/Supabase and auth (Keycloak / OAuth / JWT) on the back
 - 🌐 Languages: Russian (native) · English (B1)
@@ -27,16 +27,20 @@
 
 ## 💼 Experience
 
-**Fixorix** — Frontend Developer · *May 2025 – Present*
-> B2B SaaS platform for corporate communications and customer request handling. Building the operator and admin web console.
+**[Fixorix](https://cloud.ru/cases/fixorix)** — Frontend Developer · *May 2025 – Present*
+
+> **AI-powered omnichannel helpdesk SaaS.** Collapses email, website widgets and messengers into a single operator inbox, with LLM-driven auto-replies, sentiment analysis, ticket clustering and dialogue analytics. Runs on Cloud.ru (Managed Kubernetes, Kafka, Redis, AI Factory), reached production in Jan 2026, and serves banking, telecom and e-commerce companies handling millions of tickets.
 >
-> `Next.js 15 (App Router)` `React 19` `TypeScript (strict)` `TanStack Query v5` `Zustand` `Tailwind 4` `shadcn/ui` `STOMP/SockJS` `Keycloak` `Recharts` `Turbopack` · **Feature-Sliced Design**
+> I build the **operator and admin web console** — the interface the company credits with cutting handling time per ticket in half.
 >
-> - Integrated **Keycloak SSO** with a role model and a customized login theme
-> - Built **realtime KPI dashboards** — live metric, event and notification panels over STOMP/SockJS, visualized with Recharts
-> - Wrote a custom **i18n layer** with dynamic translation loading and pre-hydration UI support (RU / EN)
-> - Introduced a **design-token-based UI kit** on shadcn/ui + Radix over Tailwind 4; unified tables, modals and empty states
-> - Moved the dev build to **Turbopack** and tuned TanStack Query (`staleTime`, domain-segmented query keys) to cut network traffic
+> `Next.js 15 (App Router)` `React 19` `TypeScript (strict)` `TanStack Query v5` `Zustand` `Tailwind 4` `shadcn/ui` `Radix UI` `STOMP/SockJS` `Keycloak` `Recharts` `Turbopack` · **Feature-Sliced Design**
+>
+> - Built the **realtime operator workspace** — live ticket, metric and notification streams over STOMP/SockJS, so agents see incoming requests and AI suggestions without refreshing
+> - Shipped **KPI and dialogue-analytics dashboards** on Recharts, surfacing sentiment and load data the platform's AI layer produces
+> - Wrote a custom **i18n layer** with dynamic translation loading and pre-hydration UI support (RU / EN), backing the product's real-time localization
+> - Integrated **Keycloak SSO** with a role model separating operator and admin access, plus a customized login theme
+> - Introduced a **design-token-based UI kit** on shadcn/ui + Radix over Tailwind 4; unified tables, modals and empty states across the console
+> - Moved the dev build to **Turbopack** and tuned TanStack Query (`staleTime`, domain-segmented query keys) to cut network traffic on high-frequency ticket views
 
 ---
 
